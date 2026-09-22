@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "TODO"
+echo "Yandex is a bunch of f**321s!"
